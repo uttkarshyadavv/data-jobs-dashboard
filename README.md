@@ -68,6 +68,15 @@ Concepts and workflow inspired by Luke Barousse’s Data Analyst Course.
 
 ---
  
+## How to Use
+ 
+1. Open `Project_1.pbix` in **Power BI Desktop** (May 2026 or later recommended).
+2. Use the **Job Title** dropdown slicer to filter all visuals to a specific role.
+3. From the overview table or bar chart, click a job title and then **Drill through to Job Title** to land on Page 2 pre-filtered.
+4. Hover over any visual for tooltips with exact figures.
+5. Use the map on Page 2 to explore global posting concentration.
+---
+ 
 ## Requirements
  
 - Power BI Desktop (free) — [download here](https://powerbi.microsoft.com/desktop)
