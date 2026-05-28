@@ -129,7 +129,6 @@ Single flat table: **`job_postings_flat`**
 | File | Description |
 |------|-------------|
 | `Project_1.pbix` | Main Power BI dashboard |
-| `dataset.csv` | Source dataset |
 | `Images/` | Dashboard screenshots |
 
 ---
