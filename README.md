@@ -15,6 +15,41 @@ This dashboard was built to analyze:
 
 The project focuses on transforming raw datasets into meaningful and actionable insights through interactive visualizations.
 
+## Dashboard Pages
+ 
+### Page 1 — Overview
+ 
+High-level summary of the data jobs landscape with a focus on volume and compensation trends.
+ 
+| Visual | Description |
+|--------|-------------|
+| **KPI Cards** | Job count and average yearly salary at a glance |
+| **Salary Cards** | Total yearly and hourly salary aggregates |
+| **Line Chart** | Job postings over time, broken down by year and quarter |
+| **Scatter Plot** | Hourly vs. yearly salary by job title — identifies compensation clusters |
+| **Clustered Bar Chart** | Job count ranked by job title |
+| **Summary Table** | Job title, total postings, and total salary in tabular form |
+| **Job Title Slicer** | Dropdown filter to isolate any single role |
+| **Drill-through Button** | Navigate to per-title detail view |
+ 
+---
+ 
+### Page 2 — Job Details
+ 
+Deeper dive into benefits, job sources, work arrangements, and global distribution.
+ 
+| Visual | Description |
+|--------|-------------|
+| **Salary Gauge (Yearly)** | Actual vs. median yearly salary |
+| **Salary Gauge (Hourly)** | Actual vs. target hourly salary range |
+| **Donut — Degree Requirement** | Share of postings that mention no degree required |
+| **Donut — Health Insurance** | Share of postings offering health insurance |
+| **Donut — Remote Work** | Share of work-from-home vs. on-site postings |
+| **Clustered Bar — Job Source** | Posting volume by platform (`job_via`) |
+| **Treemap — Schedule Type** | Distribution across full-time, part-time, contract, etc. |
+| **Esri Map** | Geographic heatmap of postings by country |
+| **Job Title Slicer** | Synced with Page 1 for consistent filtering |
+ 
 ---
 
 ## Tools & Technologies
