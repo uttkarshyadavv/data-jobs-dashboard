@@ -1,2 +1,83 @@
-# Data-jobs-dashboard
-Interactive Power BI dashboard analyzing global data job trends, salary insights, hiring patterns, and geographic distribution using Power BI, Power Query, and DAX. Features interactive visuals, filtering, and drill-through analysis for data-driven insights. Inspired by concepts from Luke Barousse’s Data Analyst Course.
+# Data Jobs Dashboard
+
+Interactive Power BI dashboard analyzing global trends in the data jobs market using data visualization and business intelligence techniques.
+
+---
+
+## Project Overview
+
+This dashboard was built to analyze:
+- Job demand trends
+- Salary distribution
+- Geographic hiring patterns
+- Job platform insights
+- Work structure and employment types
+
+The project focuses on transforming raw datasets into meaningful and actionable insights through interactive visualizations.
+
+---
+
+## Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+
+---
+
+## Dashboard Features
+
+- KPI Cards
+- Interactive Filters
+- Drill-through Analysis
+- Geographic Job Mapping
+- Salary Trend Analysis
+- Platform Comparison
+- Job Category Insights
+
+---
+
+## Dashboard Preview
+
+### Main Dashboard
+![Dashboard Overview](Images/dashboard-overview.png)
+
+### Global Analysis
+![Global Analysis](Images/global-analysis.png)
+
+### Drill Through Analysis
+![Drill Through](Images/drillthrough-analysis.png)
+
+---
+
+## Learning Source
+
+Concepts and workflow inspired by Luke Barousse’s Data Analyst Course.
+
+---
+
+## Files Included
+
+| File | Description |
+|---|---|
+| `Data_Jobs_Dashboard.pbix` | Main Power BI dashboard |
+| `dataset.csv` | Dataset used for analysis |
+| `Images/` | Dashboard screenshots |
+
+---
+
+## Key Learnings
+
+- Building interactive dashboards
+- Creating analytical layouts
+- Using DAX for calculated insights
+- Implementing drill-through navigation
+- Improving visual storytelling
+
+---
+
+## Author
+
+Utkarsh Yadav
