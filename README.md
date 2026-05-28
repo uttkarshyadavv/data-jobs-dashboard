@@ -67,6 +67,13 @@ Concepts and workflow inspired by Luke Barousse’s Data Analyst Course.
 | `Images/` | Dashboard screenshots |
 
 ---
+ 
+## Requirements
+ 
+- Power BI Desktop (free) — [download here](https://powerbi.microsoft.com/desktop)
+- For the Esri map visual: an ArcGIS Maps for Power BI account (free tier available)
+- No external data connection required — data is embedded in the `.pbix` file
+---
 
 ## Key Learnings
 
