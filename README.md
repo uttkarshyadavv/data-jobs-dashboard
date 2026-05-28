@@ -62,7 +62,7 @@ Concepts and workflow inspired by Luke Barousse’s Data Analyst Course.
 
 | File | Description |
 |---|---|
-| `Data_Jobs_Dashboard.pbix` | Main Power BI dashboard |
+| `Project_1.pbix` | Main Power BI dashboard |
 | `dataset.csv` | Dataset used for analysis |
 | `Images/` | Dashboard screenshots |
 
