@@ -37,8 +37,26 @@ The project focuses on transforming raw datasets into meaningful and actionable 
 - Platform Comparison
 - Job Category Insights
 
+## Data Source
+ 
+The report is built on a single flat table: **`job_postings_flat`**
+ 
+Key columns used across visuals:
+ 
+| Column | Description |
+|--------|-------------|
+| `job_title_short` | Standardised job title (e.g. Data Analyst, Data Engineer) |
+| `salary_year_avg` | Average yearly salary |
+| `salary_hour_avg` | Average hourly salary |
+| `job_posted_date` | Posting date (used for year/quarter hierarchy) |
+| `job_country` | Country of the posting |
+| `job_via` | Platform the job was posted on |
+| `job_schedule_type` | Full-time / part-time / contract |
+| `job_work_from_home` | Boolean — remote-eligible |
+| `job_health_insurance` | Boolean — health insurance offered |
+| `job_no_degree_mention` | Boolean — degree not mentioned as requirement |
+ 
 ---
-
 ## Dashboard Preview
 
 ### Main Dashboard
